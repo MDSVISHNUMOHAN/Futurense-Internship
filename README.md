@@ -4,7 +4,9 @@ Basic python codes to clear the basics
 
 WEEK-1
 
-In week-1 we worked on basic if-else conditions and functions to solve small real life problems
+In week-1 we worked on basic if-else conditions and functions to solve small real life problems.
+
+These are the questions we worked on:
 
 Python program to add two numbers Maximum of two numbers in Python,
 factorial of a number,
