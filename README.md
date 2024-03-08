@@ -2,7 +2,7 @@
 Basic python codes to clear the basics 
 
 WEEK-1
-Python program to add two numbers Maximum of two numbers in Python.
+Python program to add two numbers Maximum of two numbers in Python.\n
 Python Program for factorial of a number.
 Python Program for simple interest Python Program for compound interest.
 Python Program to check Armstrong Number.
