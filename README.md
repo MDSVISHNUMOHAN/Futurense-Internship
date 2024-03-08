@@ -1,4 +1,4 @@
-# python-internship
+# Futurense Internship By Jain University
 Basic python codes to clear the basics 
 
 WEEK-1
