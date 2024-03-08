@@ -4,30 +4,22 @@ Basic python codes to clear the basics
 
 WEEK-1
 
-Python program to add two numbers Maximum of two numbers in Python.
+In week-1 we worked on basic if-else conditions and functions to solve small real life problems
 
-Python Program for factorial of a number.
-
-Python Program for simple interest Python Program for compound interest.
-
-Python Program to check Armstrong Number.
-
-Python Program for Program to find area of a circle.
-
-Python program to print all Prime numbers in an Interval.
-
-Python program to check whether a number is Prime or not.
-
-Python Program for n-th Fibonacci number.
+Python program to add two numbers Maximum of two numbers in Python,
+factorial of a number,
+simple interest Python Program for compound interest,
+check Armstrong Number,
+area of a circle,print all Prime numbers in an Interval,
+for n-th Fibonacci number.
 
 WEEK-2
 
-Python program to flatten tuple of list to tuple.
+In week to we worked on python data structures like tuples,lists,dictionaries
 
-Python program to convert Set into Tuple and Tuple into Set.
+These are the questions we worked on:
 
-Convert List of Dictionary to Tuple list Python.
+Python program to flatten tuple of list to tuple,
+convert Set into Tuple and Tuple into Set,convert List of Dictionary to Tuple list Python,
+Python Sort tuple list by Nth element of tuple, find tuple indices from other tuple list.
 
-Python Sort tuple list by Nth element of tuple.
-
-Python Program to find tuple indices from other tuple list.
