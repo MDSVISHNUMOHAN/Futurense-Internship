@@ -1,4 +1,4 @@
-#WEEK-1
+WEEK-1
 
 Python program to add two numbers Maximum of two numbers in Python.
 
