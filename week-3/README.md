@@ -13,7 +13,6 @@ The analysis reveals several key findings, including:
 
 - The increasing trend of Netflix's content library over the years.
 - Dominant genres and their popularity.
-- Regional variations in content preferences.
 - Distribution of content ratings.
 
 
