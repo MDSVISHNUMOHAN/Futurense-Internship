@@ -6,8 +6,8 @@ The project was undertaken as part of an internship at Futurense Technologies, i
 
 The following analysis is done on this dataset:
 
-1)overall situation
-2)country specific insights / regional comparisons
-3)population analysis
-4)testing efforts
-5)correlation and risk analysis
+- overall situation
+- country specific insights / regional comparisons
+- population analysis
+- testing efforts
+- correlation and risk analysis
