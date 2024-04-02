@@ -25,6 +25,10 @@ Python program to flatten tuple of list to tuple,
 convert Set into Tuple and Tuple into Set,convert List of Dictionary to Tuple list Python,
 Python Sort tuple list by Nth element of tuple, find tuple indices from other tuple list.
 
+## WEEK-3
+
+The analysis of Netflix data provides valuable insights into the platform's content landscape and user preferences. 
+
 ## COVID DATA ANALYSIS
 
 The analysis of the COVID-19 Global Statistics Dataset provides valuable insights into the global impact of the pandemic by leveraging data analysis techniques.
