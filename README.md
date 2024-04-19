@@ -1,8 +1,13 @@
 # Futurense Internship By Jain University
 
-Basic python codes to clear the basics 
+![image](https://github.com/MDSVISHNUMOHAN/Futurense-Internship/assets/134498482/5d5cbf44-f101-439f-b70a-26ba4aa04fbe)
+
+
+
 
 ## WEEK-1
+
+Basic python codes to clear the basics 
 
 In week-1 we worked on basic if-else conditions and functions to solve small real life problems.
 
